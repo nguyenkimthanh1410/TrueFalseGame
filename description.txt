@@ -1,0 +1,2 @@
+- Purpose: to build a simple version game of Minesweeper. The game is played by revealing the contents of each cell. A cell might be empty or contain a single flag. True-flag is a "treasure" which player wants to find, but false-flag causes the player to lose the game at once.
+- Technology used: Java Swing
